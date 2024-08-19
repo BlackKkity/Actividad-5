@@ -1,0 +1,10 @@
+
+#porque hay que instalar la base de datos redis#
+creas el entorno virtual  con: virtualenv venv
+luego activas el entorno virtual con:       .\venv\Scripts\activate 
+
+
+y luego instalas el : pip install flask flask-wtf redis
+
+luego colocas el app.py para correrlo de forma local
+   

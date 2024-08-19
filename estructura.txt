@@ -1,0 +1,12 @@
+recetas_flask/
+│
+├── app.py
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   ├── add_recipe.html
+│   ├── update_recipe.html
+│   └── search_recipe.html
+└── forms.py
+
+   
